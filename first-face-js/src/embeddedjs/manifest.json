@@ -13,7 +13,8 @@
 				"size": 56,
 				"monochrome": false,
 				"blocks": [
-					"Basic Latin"
+					"Basic Latin",
+					"Latin Extended-A"
 				]
 			},
 			{
@@ -21,7 +22,8 @@
 				"size": 24,
 				"monochrome": false,
 				"blocks": [
-					"Basic Latin"
+					"Basic Latin",
+					"Latin Extended-A"
 				]
 			}
 		]
